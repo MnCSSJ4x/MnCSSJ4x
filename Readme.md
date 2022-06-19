@@ -1,8 +1,9 @@
 # 💫About Me :
+📚 Currently studying at International Institute of Information Technology Bangalore, India <br/>
 🔧 I’m currently working on Clustering Algorithms <br/>
 🙇🏻‍♂️ I’m currently learning more on Android and Mobile Development <br/>
 🤖 I’m interested in Machine Learning and Blockchain <br/>
-📞 How to reach me : Mail at Monjoy.Choudhury@iiitb.ac.in <br/>
+📞 How to reach me : Mail at Monjoy.Choudhury@iiitb.ac.in or choudhurymonjoy@gmail.com<br/>
 🙆🏻‍♂️ Pronouns : He/His <br/>
 👀 Fun Fact : I believe in Dark Mode Supremacy <br/> 
 
