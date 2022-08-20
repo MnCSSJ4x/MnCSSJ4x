@@ -1,10 +1,11 @@
 # 💫About Me :
-🔧 I’m currently working on Clustering Algorithms <br/>
-🙇🏻‍♂️ I’m currently learning more on Android and Mobile Development <br/>
-🤖 I’m interested in Machine Learning and Blockchain <br/>
+🔧 I’m currently working on UI and Frotend design for a Navigate Learning Platform @WSL-IIITB <br/>
+
+🤖 Exploring Machine Learning <br/>
+🙇🏻‍♂️ I’m currently learning more on Android, Mobile Development as well as Blockchain <br/>
 📞 How to reach me : Mail at Monjoy.Choudhury@iiitb.ac.in <br/>
 🙆🏻‍♂️ Pronouns : He/His <br/>
-👀 Fun Fact : I believe in Dark Mode Supremacy <br/> 
+👀 Fun Fact : I go to sleep and wake up to absolute chaos always! <br/> 
 🕸 My Website : https://mncssj4x.github.io/My-Website/ <br/>
 
 ## 🌐Socials
