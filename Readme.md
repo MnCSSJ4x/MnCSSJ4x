@@ -1,5 +1,5 @@
 # 💫About Me :
-🔧 I’m currently working on UI and Frotend design for a Navigate Learning Platform @WSL-IIITB <br/>
+🔧  <br/>
 
 🤖 Exploring Machine Learning <br/>
 🙇🏻‍♂️ I’m currently learning more on Android, Mobile Development as well as Blockchain <br/>
