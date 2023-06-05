@@ -2,7 +2,6 @@
 🔧  <br/>
 
 🤖 Exploring Machine Learning <br/>
-🙇🏻‍♂️ I’m currently learning more on Android, Mobile Development as well as Blockchain <br/>
 📞 How to reach me : Mail at Monjoy.Choudhury@iiitb.ac.in <br/>
 🙆🏻‍♂️ Pronouns : He/His <br/>
 👀 Fun Fact : I go to sleep and wake up to absolute chaos always! <br/> 
