@@ -1,8 +1,8 @@
 # 💫About Me :
-Currently a Software Engineering Intern @ [Google](https://www.google.com/about/careers/applications/ )
+Upcoming Software Engineer @ [Google](https://www.google.com/about/careers/applications/ )
 
 🤖 Machine Learning Enthusiast with an interest in Vision and Language Understanding! <br/>
-📞 How to reach me : Mail at Monjoy.Choudhury@iiitb.ac.in <br/>
+📞 How to reach me : Mail at monjoychoudhury29@gmail.com <br/>
 🙆🏻‍♂️ Pronouns : He/Him <br/>
 👀 Fun Fact : I go to sleep and wake up to absolute chaos always! <br/> 
 
